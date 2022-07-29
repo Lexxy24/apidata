@@ -1,0 +1,245 @@
+[
+  {
+    "waktu": "28/07/2022 02:17:36 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "115.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat laut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "27/07/2022 22:22:02 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "115.47 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat laut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "27/07/2022 21:14:55 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "115.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km barat laut Karangasem",
+    "warning": [
+      "III Buleleng",
+      "III Karangasem",
+      "II - III Bangli",
+      "II - III Klungkung",
+      "II - III Mataram",
+      "II Denpasar"
+    ]
+  },
+  {
+    "waktu": "27/07/2022 14:22:29 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "124.45 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 171 km barat Sanana",
+    "warning": [
+      "II - III Taliabu"
+    ]
+  },
+  {
+    "waktu": "26/07/2022 06:11:01 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "128.25 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km timur laut Ambon",
+    "warning": [
+      "II - III Ambon"
+    ]
+  },
+  {
+    "waktu": "25/07/2022 16:09:05 WIB",
+    "lintang": "8.76 LS",
+    "bujur": "115.28 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 7 km timur laut Kuta Selatan",
+    "warning": [
+      "III Denpasar",
+      "III Kuta",
+      "III Jimbaran",
+      "III Gianyar",
+      "I - II Klungkung"
+    ]
+  },
+  {
+    "waktu": "25/07/2022 06:01:54 WIB",
+    "lintang": "0.37 LU",
+    "bujur": "122.58 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "105 Km",
+    "wilayah": "Pusat gempa berada dilaut 31 km Tenggara BOALEMO",
+    "warning": [
+      "II Gorontalo"
+    ]
+  },
+  {
+    "waktu": "24/07/2022 19:43:07 WIB",
+    "lintang": "7.59 LS",
+    "bujur": "122.48 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km baratlaut Larantuka",
+    "warning": [
+      "II Ende",
+      "II-III Maumere"
+    ]
+  },
+  {
+    "waktu": "24/07/2022 17:20:55 WIB",
+    "lintang": "8.56 LS",
+    "bujur": "116.08 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada didarat 14 km BaratLaut Lombok Barat",
+    "warning": [
+      "III Mataram",
+      "III Lombok Barat"
+    ]
+  },
+  {
+    "waktu": "24/07/2022 12:28:51 WIB",
+    "lintang": "3.15 LU",
+    "bujur": "97.57 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada didarat 39 km Tenggara Kab. Aceh Selatan",
+    "warning": [
+      "II - III Tapaktuan"
+    ]
+  },
+  {
+    "waktu": "23/07/2022 21:21:26 WIB",
+    "lintang": "4.32 LS",
+    "bujur": "121.66 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km tenggara Kolaka",
+    "warning": [
+      "II - III Kolaka"
+    ]
+  },
+  {
+    "waktu": "23/07/2022 14:35:46 WIB",
+    "lintang": "7.57 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km barat laut Larantuka",
+    "warning": [
+      "III Ende",
+      "III Maumere",
+      "III Larantuka",
+      "III Lewoleba",
+      "II - III Pulau Kalaotoa"
+    ]
+  },
+  {
+    "waktu": "23/07/2022 13:45:03 WIB",
+    "lintang": "7.57 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km Barat Laut Larantuka",
+    "warning": [
+      "I - II Ende"
+    ]
+  },
+  {
+    "waktu": "23/07/2022 13:09:17 WIB",
+    "lintang": "7.65 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 94 km Barat Laut Larantuka",
+    "warning": [
+      "II - III Ende",
+      "II - III Maumere",
+      "III Larantuka",
+      "III Lewoleba",
+      "III Adonara",
+      "III Mbay-Nagekeo"
+    ]
+  },
+  {
+    "waktu": "22/07/2022 16:58:09 WIB",
+    "lintang": "3.65 LS",
+    "bujur": "128.03 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km barat Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
+    "waktu": "22/07/2022 04:41:01 WIB",
+    "lintang": "0.19 LU",
+    "bujur": "98.29 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km Tenggara Nias Selatan",
+    "warning": [
+      "III-IV Nias Selatan"
+    ]
+  },
+  {
+    "waktu": "21/07/2022 16:57:48 WIB",
+    "lintang": "2.09 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 62 Km Timur Laut Luwu Utara",
+    "warning": [
+      "II - III Malili"
+    ]
+  },
+  {
+    "waktu": "21/07/2022 04:38:59 WIB",
+    "lintang": "2.14 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 54 km barat laut Luwu Timur",
+    "warning": [
+      "II - III Malili"
+    ]
+  },
+  {
+    "waktu": "20/07/2022 21:30:02 WIB",
+    "lintang": "0.16 LS",
+    "bujur": "130.58 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timur laut Raja Ampat",
+    "warning": [
+      "II - III Raja Ampat"
+    ]
+  },
+  {
+    "waktu": "20/07/2022 12:31:37 WIB",
+    "lintang": "0.25 LS",
+    "bujur": "122.83 BT",
+    "magnitudo": "5",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km barat daya Gorontalo",
+    "warning": [
+      "II Kab. Bolaang Mongondow",
+      "II-III Kab. Banggai",
+      "II - III Kab. Pohuwato",
+      "II-III Kab. Bone Bolango"
+    ]
+  }
+]
